@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Button-counter-Nash</string>
+    <string name="Counter">0</string>
 </resources>
